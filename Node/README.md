@@ -2,9 +2,7 @@
 
 Docker and Node documentation.
 
-<div style="display: flex; padding: 20px; justify-content: center;">
-  <img src="../images/node.png" width="200">
-</div>
+![](../images/node.png)
 
 This folder contains information of how to create docker containers for Node apps.
 It also has a docker-compose.yaml file where several services are launched using just one file.

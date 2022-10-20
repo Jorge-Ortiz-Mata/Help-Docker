@@ -2,9 +2,7 @@
 
 Docker and Rails documentation.
 
-<div style="display: flex; padding: 20px; justify-content: center;">
-  <img src="../images/rails.png" width="330">
-</div>
+![](../images/rails.png)
 
 This folder contains information of how to create docker containers for Ruby on Rails apps.
 It also has a docker-compose.yaml file where several services are launched using just one file.
