@@ -1,6 +1,6 @@
 FROM node:16
 
-WORKDIR /app
+WORKDIR /myapp
 
 RUN npm install -g create-react-app \
                    create-react-native-app \
