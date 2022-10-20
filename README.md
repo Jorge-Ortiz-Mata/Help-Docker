@@ -2,7 +2,9 @@
 
 In this repository you will find the configuration needed for creating Dockerfiles for each enviroment.
 
-![](/images/docker.png)
+<div style="display: flex; padding: 20px; justify-content: center;">
+  <img src="./images/docker.png" width="330">
+</div>
 
 You can find folders with docker and docker-compose files to create containers based on those dockerfiles.
 

@@ -1,3 +1,6 @@
+# Ruby on Rails 7
+# This dockerfile is used once your app has been created using the other Dockerfile.
+
 FROM ruby:3.0.4
 
 WORKDIR /myapp
