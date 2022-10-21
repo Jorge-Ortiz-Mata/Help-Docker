@@ -16,3 +16,4 @@ You can find dockerfiles and docker-compose.yaml files with the basic configurat
 
 You have to create the Dockerfile Getting Started first, and build a docker container. After that, generate
 your Rails App and create the second dockerfile in the root of your new rails app created.
+Don't forget to add the entrypoint.sh and its configuration.
