@@ -1,14 +1,11 @@
 # Docker
 
-Docker documentation.
-
 ![](./images/docker.png)
 
 ## Sumary.
 
 In this repository you will find the configuration needed for creating Dockerfiles for each enviroment.
 You can find folders with docker and docker-compose files to create containers based on those dockerfiles.
-
 
 ## Docker Website.
 
